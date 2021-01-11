@@ -197,3 +197,8 @@ a {
   box-shadow: 5px 2px 15px 4px rgba(0,0,0, 0.1);
 }
 /* #endregion */
+
+/* #region mobile style */
+@media (max-width: 600px) {
+} 
+/* #endregion */
